@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "KRNL Staking Demo with ComPilot",
-  description: "Stake and unstake ETH with advanced risk assessment powered by ComPilot through KRNL technology.",
+  title: "TrueMoney x KRNL demo",
+  description: "TrueMoney x KRNL demo",
 };
 
 export default function RootLayout({
