@@ -1,0 +1,12 @@
+{
+  "name": "contracts",
+  "version": "1.0.0",
+  "private": true,
+  "author": "",
+  "license": "MIT",
+  "description": "KRNL Smart Contract Project",
+  "dependencies": {
+    "@oasisprotocol/sapphire-contracts": "^0.2.11",
+    "@openzeppelin/contracts": "^5.1.0"
+  }
+}
